@@ -17,6 +17,12 @@ a:hover {
     color: blueviolet;
 }
 
+p {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
 img {
     width: 35%;
     margin: 0 auto;
